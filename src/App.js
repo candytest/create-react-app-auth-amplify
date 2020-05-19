@@ -21,7 +21,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Aneel's work-in-progress
+            Atduty.inc
           </a>
         </header>
       </div>
